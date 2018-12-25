@@ -9,5 +9,3 @@ I am a young programmer fresh out of college with interests in computer graphics
 ### Contact me
 
 [mjzyle@gmail.com](mailto:email@domain.com)
-
-[LinkedIn](https://www.linkedin.com/in/matthew-zyle-a94162133/)
