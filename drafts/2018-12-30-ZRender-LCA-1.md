@@ -30,7 +30,13 @@ I did say those goals were in no particular order, right?
 
 Since I've worked with manipulating OpenGL viewing space in the past, setting up a camera object seemed like the easiest starting point. Of course, a camera's useless without something to look at, so the *real* starting point (after initializing OpenGL and GLUT) was implementing a mesh reader. My Computer Graphics course provided a useful mesh reader for standard .obj files which uses mass allocation for storing vertex and face data, so I implemented that procedure with minor variations (namely the ability to store object data into an array of objects rather than a single list since I want my framework to handle scenes with multiple meshes). 
 
-Once I had a way of reading a single mesh, I extended this procedure to read a custom filetype which simple lists all of the objects in the scene in a way similar to a .obj file (the file for the early test scene I used can be found [here](https://github.com/mjzyle/zrender/blob/master/zrender/scene.txt)).
+Once I had a way of reading a single mesh, I extended this procedure to read a custom filetype which simple lists all of the objects in the scene in a way similar to a .obj file (the file for the early test scene I used can be found [here](https://github.com/mjzyle/zrender/blob/master/zrender/scene.txt)). Objects are marked with an 'o' followed by the name of the mesh to be loaded and the translational coordinates for defining the object's initial position (rotation is not currently taken into account).
+
+With a scene reader in place, I simply implemented a render loop to draw each object as a wireframe and got a scene much like this:
+
+![Scene](/images/ZRender/LCA-1/scenereader.png "Basic Scene")
+
+At this point I started working on the camera controls. 
 
 ------
 
