@@ -19,3 +19,12 @@ So, in no particular order, here are my immediate goals for ZRender as I've been
 * __Action__: A simple animation framework" for drawing and/or manipulating moving meshes. Since it doesn't really fit well into any category, I'm also throwing in point-and-click interaction with the scene using the mouse as an "action" related feature (though I suppose it would be considered more of a *re*action...)
 
 Obviously there are some other elements that I've either implemented already or plan to implement in order to have a usable framework: reading object meshes, transforming objects, setting up the view window, etc. For the most part these steps are fairly trivial and/or have already been implemented in some of my work before, so unless there are major challenges or design decisions worth mentioning, I likely won't go into too much detail about them other than mentioning that the work was done.
+
+Before we jump in to exploring the work I've accomplished so far, I want to give a brief thank you to one of my professors at Case Western Reserve University. I took Computer Graphics with Prof. Cenk Cavusoglu back in fall 2017, and in addition to applying many of the algorithms and techniques learned in that class, I've used a lot of my projects as references for my own code here. I've referred back to the work I did in that class countless times while working in OpenGL and C++ in general, so when a certain implementation in my project is adapted from some of the provided code, I will credit it properly and point out any design deviaitons I may have made.
+
+Now, without further ado, let's get on with the show!
+
+
+
+I did say those goals were in no particular order, right? 
+
