@@ -35,3 +35,5 @@ ADD TEXT
 In my next post I'll be covering some of my progress on implementing lighting and shading. Until then, here's a sneak peek at some of the fun stuff I'll be showing off - hairy spheres and teapots!
 
 ![Sneak Peek](/images/ZRender/LCA-1/sneakpeek.png "Sneak Peek at Lighting")
+
+*Check back here for a link to Part 2 once it's posted!*
