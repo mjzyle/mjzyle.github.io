@@ -14,6 +14,7 @@ To get there, I've decided to first focus on writing a relatively simple OpenGL 
 I decided I want to be done with that, so I'm taking it slow and starting from the ground up this time. And the more I thought about it, the more I realized that my main objectives for having ZRender are summed up pretty well by a familiar filmmaking phrase:  lights, camera, action!
 
 So, in no particular order, here are my immediate goals for ZRender as I've been approaching the project:
-* Lights: 
-* Camera: 
-* Action: 
+* __Lights__: Simple controls for multiple lights. Shaders connected to each object in the scene.
+* __Camera__: Basic translation, zooming, and simple rotation around an object using the mouse and/or keyboard to control multiple camera locations. For the time being I've chosen to exclude tilting the camera as I don't imagine this feature being of much use for the immediate projects I have in mind. However, that could certainly change!
+* __Action__: A simple animation framework" for drawing and/or manipulating moving meshes. Since it doesn't really fit well into any category, I'm also throwing in point-and-click interaction with the scene using the mouse as an "action" related feature (though I suppose it would be considered more of a *re*action...)
+Obviously there are some other elements that I've either implemented already or plan to implement in order to have a usable framework: reading object meshes, transforming objects, setting up the view window, etc. For the most part these steps are fairly trivial and/or have already been implemented in some of my work before, so unless there are major challenges or design decisions worth mentioning, I likely won't go into too much detail about them other than mentioning that the work was done.
