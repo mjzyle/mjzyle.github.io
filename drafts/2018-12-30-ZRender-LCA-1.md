@@ -24,12 +24,14 @@ Before we jump in to exploring the work I've accomplished so far, I want to give
 
 Now, without further ado, let's get on with the show!
 
-
+## Cameras
 
 I did say those goals were in no particular order, right? 
 
+ADD TEXT
 
+------
 
-In my next post I'll be covering some of my progress on implementing lighting and shading. Until then, here's a sneak peek at some of the fun stuff I'll be showing off!
+In my next post I'll be covering some of my progress on implementing lighting and shading. Until then, here's a sneak peek at some of the fun stuff I'll be showing off - hairy spheres and teapots!
 
 ![Sneak Peek](/images/ZRender/LCA-1/sneakpeek.png "Sneak Peek at Lighting")
