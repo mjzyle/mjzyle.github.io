@@ -14,6 +14,6 @@ To get there, I've decided to first focus on writing a relatively simple OpenGL 
 I decided I want to be done with that, so I'm taking it slow and starting from the ground up this time. And the more I thought about it, the more I realized that my main objectives for having ZRender are summed up pretty well by a familiar filmmaking phrase:  lights, camera, action!
 
 So, in no particular order, here are my immediate goals for ZRender as I've been approaching the project:
-*Lights: 
-*Camera: 
-*Action: 
+* Lights: 
+* Camera: 
+* Action: 
