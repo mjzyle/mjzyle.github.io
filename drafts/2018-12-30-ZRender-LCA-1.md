@@ -28,3 +28,8 @@ Now, without further ado, let's get on with the show!
 
 I did say those goals were in no particular order, right? 
 
+
+
+In my next post I'll be covering some of my progress on implementing lighting and shading. Until then, here's a sneak peek at some of the fun stuff I'll be showing off!
+
+![Sneak Peek](/images/ZRender/LCA-1/sneakpeek.png "Sneak Peek at Lighting")
