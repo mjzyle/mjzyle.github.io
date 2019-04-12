@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Writing
-permalink: /about/
+title: Portfolio
+permalink: /portfolio/
 ---
 
 Test
